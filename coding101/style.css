@@ -1,0 +1,57 @@
+body {
+  background-color: #ffe6e6;
+  font-family: Garamond;
+
+
+
+}
+img {
+  margin: 0px 0px 0px 1000px;
+}
+h1 {
+  text-align: center;
+}
+
+h2 {
+  border-top: 10px;
+  text-align: center;
+  margin: 10px 10px 10px 10px;
+}
+
+h3 {
+  text-align: center;
+  font-style: italic;
+  margin: 0px 300px 0px 300px;
+}
+
+p {
+  margin: 0px 300px 0px 300px;
+  padding-bottom: 30px;
+  font-weight: lighter;
+}
+
+ul {
+  font-weight: lighter;
+  margin: 0px 300px 0px 300px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+
+}
+p:hover {
+  color: white;
+}
+
+.school {
+  color: grey;
+
+}
+
+.job {
+  color: grey;
+}
+
+#id {
+  text-align: center;
+  Text:color: black;
+
+}
